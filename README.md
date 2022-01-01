@@ -14,4 +14,4 @@ Recently I've been working on:
 - A python library to call functions in dump files (useful for malware analysis): [dumpulator](https://github.com/mrexodia/dumpulator)
 - A ghetto user mode emulator for kernel drivers to analyze an anti-cheat: [driver_unpacking](https://github.com/mrexodia/driver_unpacking)
 
-See the pinned repositories below for more interesting things I've been up to.
+See the pinned repositories below for other interesting things I've been up to.
