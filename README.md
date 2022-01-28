@@ -15,3 +15,5 @@ Recently I've been working on:
 - A ghetto user mode emulator for kernel drivers to analyze an anti-cheat: [driver_unpacking](https://github.com/mrexodia/driver_unpacking)
 
 See the pinned repositories below for other interesting things I've been up to.
+
+JetBrains: ID=26012022/8686633
