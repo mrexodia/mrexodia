@@ -2,6 +2,7 @@
 
 Recently I've been working on:
 
+- MCP Server for IDA Pro to allow LLMs to interact with IDA directly: [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
 - A beginner-friendly build system based on CMake and TOML: [cmkr](https://github.com/build-cpp/cmkr)
 - A python library to call functions in dump files (useful for malware analysis): [dumpulator](https://github.com/mrexodia/dumpulator)
 - A ghetto user mode emulator for kernel drivers to analyze an anti-cheat: [driver_unpacking](https://github.com/mrexodia/driver_unpacking)
