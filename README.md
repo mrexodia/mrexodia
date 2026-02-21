@@ -14,6 +14,14 @@ See the pinned repositories below for other interesting things I've been up to.
 
 If you like or rely on the work I do, please consider [sponsoring me](https://github.com/sponsors/mrexodia). I do open source in my free time and it would be really great if I could do more of it.
 
+## Articles
+
+### [Vibe Engineering: What I've Learned Working with AI Coding Agents](https://x.com/mrexodia/status/2010157660885176767)
+
+<a href="https://x.com/mrexodia/status/2010157660885176767"><img width="680" height="272" alt="image" src="https://github.com/user-attachments/assets/e7a8fe5f-4388-4108-833c-13bc8e3a5bfa" /></a>
+
+### [RISC-Y Business: Raging against the reduced machine](https://secret.club/2023/12/24/riscy-business.html)
+
 ## Discord
 
 [![](https://dcbadge.limes.pink/api/server/PRfRYbt)](https://discord.x64dbg.com)
