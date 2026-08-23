@@ -32,9 +32,9 @@ See the pinned repositories below for other interesting things I've been up to.
 
 I am available for trainings:
 
-- Binary Lifting with Remill (on-site)
-- Payload Obfuscation for Red Teams (on-site)
-- Build Your Own Coding Agent (virtual)
+- [Binary Lifting with Remill](https://labs.ogilvie.pl/lifting/) (on-site)
+- [Payload Obfuscation for Red Teams](https://labs.ogilvie.pl/obfuscation/) (on-site)
+- [Build Your Own Coding Agent](https://labs.ogilvie.pl/agent/) (virtual)
 
 You can [reach out](mailto:training@ogilvie.pl) for more information.
 
