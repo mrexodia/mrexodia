@@ -12,7 +12,13 @@ See the pinned repositories below for other interesting things I've been up to.
 
 ## Articles
 
-### [Vibe Engineering: What I've Learned Working with AI Coding Agents](https://x.com/mrexodia/status/2010157660885176767)
+### [My 8¢ Malware Analyst](https://x.com/mrexodia/status/2090806161813405917?s=46&t=0Ven6DWZeNPcGOTNyWx89g)
+
+> Before boarding a flight I tasked my local model with a static analysis job on a whim. When I landed an hour later, the result was waiting: "I finished the requested static analysis of the sample with IDA. It's DarkSide ransomware and I fully marked up the database." Turns out the cost was **$0.08** 🤯
+
+<a href="https://x.com/mrexodia/status/2090806161813405917?s=46&t=0Ven6DWZeNPcGOTNyWx89g"><img width="680" height="272" alt="image" src="https://github.com/user-attachments/assets/fb7410fc-73fc-4e7e-8d97-5c46b0f0ed3b" /></a>
+
+### [Vibe Engineering: What I've Learned Working with AI Coding Agents](https://x.com/mrexodia/status/2010157660885176767?s=20)
 
 > I've spent the past few months doing almost nothing but working with AI coding agents. No job, just me and LLMs building things together. What follows is everything I wish someone had told me when I started: the mindset shifts, the hard-won lessons, and the techniques that actually work for me.
 
